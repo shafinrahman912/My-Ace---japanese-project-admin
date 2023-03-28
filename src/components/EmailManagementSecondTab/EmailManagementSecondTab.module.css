@@ -1,0 +1,88 @@
+.EmailManagementSecondTab {
+  margin-left: 203px;
+  margin-top: 90px;
+}
+
+/*-----------------------Email management search css start------------------------*/
+.EmailManagementWrapper {
+  width: 1540px;
+  margin-top: 20px;
+  margin-left: 98px;
+}
+.searchInfoHeading {
+  font-size: 17px;
+  letter-spacing: 3.4px;
+  color: #000000;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: bold;
+}
+.searchBox {
+  width: 1491px;
+  height: 54px;
+  border: 1px solid #bebebe;
+  border-radius: 9px;
+  /* padding: 17px 20px; */
+  padding: 13px;
+}
+.searchBox input {
+  border: none;
+  width: 1430px;
+  height: 25px;
+  padding-left: 10px;
+  outline: none;
+  font-size: 15px;
+}
+
+/*-----------------------Email management search css end------------------------*/
+
+/*-----------------------Email management table css start------------------------*/
+.EmailTable {
+  /* width: auto; */
+  width: 1491px;
+}
+.emailTr {
+  height: 50px;
+}
+.emailTr > td {
+  border-bottom: 1px solid #e2e2e2;
+  text-align: left;
+  letter-spacing: 1.5px;
+  color: #000000c7;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+}
+/* ---------1484px ---------*/
+.familyName {
+  width: 190px;
+  padding-left: 30px;
+}
+.customerNumber {
+  width: 150px;
+}
+
+.address {
+  width: 400px;
+}
+
+.templateNo {
+  width: 148px;
+}
+
+.subject {
+  width: 348px;
+}
+.sentDate {
+  width: 248px;
+}
+
+.emailTr:hover {
+  background-color: #f3f3f3;
+}
+.tableBorder {
+  width: 1491px;
+  border: 1px solid #bebebe;
+  border-radius: 9px;
+  padding: 25px 0;
+}
+
+/*-----------------------Email management table css end------------------------*/

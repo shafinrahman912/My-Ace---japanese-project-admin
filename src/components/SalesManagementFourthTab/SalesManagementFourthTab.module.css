@@ -1,0 +1,211 @@
+.SalesManagementFourth {
+  margin-left: 203px;
+  margin-top: 90px;
+}
+
+/*-----------------------sales Analysis Form css start------------------------*/
+.SalesAnalysisForm {
+  margin-top: 47px;
+  margin-left: 48px;
+}
+
+.SalesStatusTableTitle {
+  letter-spacing: 1.5px;
+  color: #040303;
+  font-size: 15px;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: normal;
+  margin-left: 10px;
+}
+
+.SalesAnalysisFormWrapper {
+  width: 988px;
+  height: 467px;
+  border: 1px solid #707070;
+  /* outline: 1px solid #707070; */
+  padding: 30px 25px;
+}
+
+.SalesAnalysisFormHeading {
+  width: 167px;
+  height: 40px;
+  letter-spacing: 1.5px;
+  color: #000000c7;
+  font-size: 15px;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: bold;
+  border-radius: 25px;
+  border: 1px solid #707070;
+  text-align: center;
+  padding: 10px 0;
+}
+.analysisBtn {
+  width: 115px;
+  height: 30px;
+  border: 1px solid #707070;
+  background-color: #f1f1f3;
+  font-size: 12px;
+  font-family: "Noto Sans", sans-serif;
+  letter-spacing: 2.4px;
+  border-radius: 25px;
+}
+
+.analysisForm {
+  margin: 0 auto;
+  width: 700px;
+}
+
+.analysisFormLabel {
+  font-size: 15px;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: bold;
+  letter-spacing: 3px;
+  width: 180px;
+}
+.InputText {
+  width: 150px;
+  height: 35px;
+  outline: none;
+  padding: 9px 20px;
+  border: 1px solid #707070;
+  z-index: 1;
+  letter-spacing: 2.4px;
+  color: #000000c7;
+  font-family: "Noto Sans", sans-serif;
+}
+.selectText {
+  width: 210px;
+  height: 35px;
+  outline: none;
+  padding: 9px 20px;
+  border: 1px solid #707070;
+  z-index: 1;
+  letter-spacing: 2.4px;
+  color: #000000c7;
+  font-family: "Noto Sans", sans-serif;
+}
+.InputDate::-webkit-calendar-picker-indicator {
+  color: #707070;
+  width: 40px;
+  height: 24px;
+  margin-top: 3px;
+  opacity: 1;
+  margin-left: -20px;
+}
+.InputDate {
+  outline: none;
+  border: none;
+  margin-left: -90px;
+  background: #ffffff;
+}
+
+.textSign {
+  font-size: 20px;
+  margin: 0 45px;
+}
+
+/*-----------------------sales Analysis Form css end------------------------*/
+
+/*-----------------------product Analysis Form css start------------------------*/
+.productAnalysisForm {
+  margin-top: 47px;
+  margin-left: 48px;
+}
+
+.productStatusTableTitle {
+  letter-spacing: 1.5px;
+  color: #040303;
+  font-size: 15px;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: normal;
+  margin-left: 10px;
+}
+
+.productAnalysisFormWrapper {
+  width: 988px;
+  height: 285px;
+  border: 1px solid #707070;
+  /* outline: 1px solid #707070; */
+  padding: 30px 25px;
+  margin-bottom: 100px;
+}
+
+.productAnalysisFormHeading {
+  width: 167px;
+  height: 40px;
+  letter-spacing: 1.5px;
+  color: #000000c7;
+  font-size: 15px;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: bold;
+  border-radius: 25px;
+  border: 1px solid #707070;
+  text-align: center;
+  padding: 10px 0;
+}
+.analysisBtn {
+  width: 115px;
+  height: 30px;
+  border: 1px solid #707070;
+  background-color: #f1f1f3;
+  font-size: 12px;
+  font-family: "Noto Sans", sans-serif;
+  letter-spacing: 2.4px;
+  border-radius: 25px;
+}
+
+.analysisForm {
+  margin: 0 auto;
+  width: 700px;
+}
+
+.analysisFormLabel {
+  font-size: 15px;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: bold;
+  letter-spacing: 3px;
+  width: 180px;
+}
+.InputText {
+  width: 150px;
+  height: 35px;
+  outline: none;
+  padding: 9px 20px;
+  border: 1px solid #707070;
+  z-index: 1;
+  letter-spacing: 2.4px;
+  color: #000000c7;
+  font-family: "Noto Sans", sans-serif;
+}
+.selectText {
+  width: 210px;
+  height: 35px;
+  outline: none;
+  padding: 9px 20px;
+  border: 1px solid #707070;
+  z-index: 1;
+  letter-spacing: 2.4px;
+  color: #000000c7;
+  font-family: "Noto Sans", sans-serif;
+}
+.InputDate::-webkit-calendar-picker-indicator {
+  color: #707070;
+  width: 40px;
+  height: 24px;
+  margin-top: 3px;
+  opacity: 1;
+  margin-left: -20px;
+}
+.InputDate {
+  outline: none;
+  border: none;
+  margin-left: -90px;
+  background: #ffffff;
+}
+
+.textSign {
+  font-size: 20px;
+  margin: 0 45px;
+}
+
+/*-----------------------product Analysis Form css end------------------------*/

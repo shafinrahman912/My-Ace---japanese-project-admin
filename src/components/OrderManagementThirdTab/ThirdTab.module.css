@@ -1,0 +1,203 @@
+.OrderThirdTab {
+  margin-left: 203px;
+  margin-top: 90px;
+}
+
+/*order management third table css start*/
+
+.OrderManagementTableWrapper {
+  margin-top: 47px;
+  margin-left: 48px;
+}
+
+.tableInfoHeading {
+  letter-spacing: 3.4px;
+  color: #000000c7;
+  font-size: 17px;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: bold;
+}
+
+.tableInfoLink {
+  letter-spacing: 10px;
+  color: blue;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 10px;
+}
+
+.orderQty label {
+  font-size: 12px;
+  font-family: "Noto Sans", sans-serif;
+  letter-spacing: 2.4px;
+}
+
+.orderQty select {
+  font-size: 10px;
+}
+
+.tableData {
+  margin-top: 26px;
+}
+
+.OrderFirstTable {
+  width: auto;
+}
+
+.orderTr {
+  /* width: 100%; */
+  height: 75px;
+}
+
+.orderTr > th {
+  border-top: 1px solid #bebebe;
+  border-right: 1px solid #bebebe;
+  border-left: 1px solid #bebebe;
+  text-align: center;
+  /*padding-top: 28px;
+    padding-bottom: 27px; */
+  letter-spacing: 1.5px;
+  color: #000000c7;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 15px;
+  /* padding: 25px; */
+}
+
+.orderTr > td {
+  text-align: center;
+  border-right: 1px solid #bebebe;
+  border-left: 1px solid #bebebe;
+  align-items: center;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 12px;
+  padding: 0px 25px;
+}
+
+.orderTr:nth-child(odd) {
+  background-color: #fafafa;
+}
+
+.orderTr:hover {
+  background-color: #f3f3f3;
+}
+
+.orderCheckBox {
+  width: 60px;
+}
+
+.orderDate {
+  width: 130px;
+}
+
+.customerNumber {
+  width: 109px;
+}
+
+.familyName {
+  width: 120px;
+}
+
+.P {
+  width: 110px;
+}
+
+.studio {
+  width: 125px;
+}
+
+.plan {
+  width: 140px;
+}
+
+.orderId {
+  width: 250px;
+}
+.orderId p {
+  margin-top: 15px;
+}
+.orderIdInput {
+  width: 135px;
+  height: 30px;
+  border-radius: 9px;
+  border: 1px solid #bebebe;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.productName {
+  width: 150px;
+}
+
+.shootingDate {
+  width: 110px;
+}
+
+.designConfirm {
+  width: 135px;
+}
+
+.email {
+  width: 140px;
+}
+
+.TableUnderline {
+  margin: 0;
+}
+
+/*order management third tab table css end*/
+/*order management third tab form css start*/
+.OrderManagementFormContainer {
+  background-color: #f7f7f7;
+  width: 828px;
+  height: 181px;
+  margin: 100px auto;
+  padding-top: 23px;
+  padding-left: 90px;
+}
+
+.OrderManagementFormControl {
+  margin-bottom: 22px;
+}
+.OrderManagementFormLabel {
+  width: 220px;
+  padding-top: 5px;
+}
+.OrderManagementFormOption {
+  border-radius: 9px;
+  border: 1px solid #bebebe;
+  width: 220px;
+  height: 30px;
+  padding-left: 10px;
+  outline: none;
+}
+.updateStatusBtn {
+  width: 80px;
+  border-radius: 21px;
+  background-color: #cbdaf2;
+  border: none;
+  margin-left: 30px;
+}
+
+.EditBtn {
+  width: 80px;
+  border-radius: 21px;
+  background-color: #d5d5d5;
+  border: none;
+  margin-left: 30px;
+}
+.SendBtn {
+  width: 80px;
+  border-radius: 21px;
+  background-color: #cbdaf2;
+  border: none;
+  margin-left: 30px;
+}
+
+.OutputBtn {
+  width: 115px;
+  border-radius: 21px;
+  background-color: #d5d5d5;
+  border: none;
+  margin-left: 30px;
+}
+
+/*order management third tab form css end*/
